@@ -1,3 +1,3 @@
 ## Getting Started  
-A NextJS starter template to assist when starting a new NextJS project
+Work in progress...an exercise to understand the integration and features of the Prismic CMS with NextJS
 
